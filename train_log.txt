@@ -1,0 +1,31 @@
+Device: cuda
+GPU: NVIDIA GeForce RTX 2080 SUPER
+VRAM: 8.6 GB
+Resumed from checkpoint: gen=2, elo=0
+
+============================================================
+Generation 3 / 202
+============================================================
+
+[1/3] Self-Play (50 games, 200 sims/move)
+  Game 1/50 | 83 moves | 36.4s | 0.0 g/s | ETA: 1782s | W:0 D:1  Game 2/50 | 64 moves | 25.7s | 0.0 g/s | ETA: 1491s | W:0 D:2  Game 3/50 | 83 moves | 33.9s | 0.0 g/s | ETA: 1505s | W:0 D:3  Game 4/50 | 65 moves | 25.6s | 0.0 g/s | ETA: 1399s | W:0 D:4  Game 5/50 | 64 moves | 25.3s | 0.0 g/s | ETA: 1322s | W:0 D:5  Game 6/50 | 57 moves | 23.1s | 0.0 g/s | ETA: 1247s | W:0 D:6  Game 7/50 | 59 moves | 23.2s | 0.0 g/s | ETA: 1187s | W:0 D:7  Game 8/50 | 74 moves | 28.1s | 0.0 g/s | ETA: 1162s | W:0 D:8  Game 9/50 | 63 moves | 24.2s | 0.0 g/s | ETA: 1118s | W:0 D:9  Game 10/50 | 67 moves | 28.8s | 0.0 g/s | ETA: 1097s | W:0 D:10  Game 11/50 | 64 moves | 29.3s | 0.0 g/s | ETA: 1077s | W:0 D:11  Game 12/50 | 73 moves | 33.1s | 0.0 g/s | ETA: 1066s | W:0 D:12  Game 13/50 | 65 moves | 26.1s | 0.0 g/s | ETA: 1033s | W:0 D:13  Game 14/50 | 65 moves | 27.0s | 0.0 g/s | ETA: 1002s | W:0 D:14  Game 15/50 | 57 moves | 22.6s | 0.0 g/s | ETA: 962s | W:0 D:15  Game 16/50 | 67 moves | 27.9s | 0.0 g/s | ETA: 936s | W:0 D:16  Game 17/50 | 67 moves | 40.3s | 0.0 g/s | ETA: 933s | W:0 D:17  Game 18/50 | 69 moves | 46.9s | 0.0 g/s | ETA: 938s | W:0 D:18  Game 19/50 | 61 moves | 29.3s | 0.0 g/s | ETA: 908s | W:0 D:19  Game 20/50 | 85 moves | 36.1s | 0.0 g/s | ETA: 889s | W:0 D:20  Game 21/50 | 85 moves | 33.3s | 0.0 g/s | ETA: 865s | W:0 D:21  Game 22/50 | 68 moves | 26.3s | 0.0 g/s | ETA: 830s | W:0 D:22  Game 23/50 | 62 moves | 25.8s | 0.0 g/s | ETA: 796s | W:0 D:23  Game 24/50 | 73 moves | 31.1s | 0.0 g/s | ETA: 768s | W:0 D:24  Game 25/50 | 66 moves | 28.8s | 0.0 g/s | ETA: 738s | W:0 D:25  Game 26/50 | 71 moves | 32.5s | 0.0 g/s | ETA: 711s | W:0 D:26  Game 27/50 | 61 moves | 28.6s | 0.0 g/s | ETA: 681s | W:0 D:27  Game 28/50 | 66 moves | 30.6s | 0.0 g/s | ETA: 652s | W:0 D:28  Game 29/50 | 60 moves | 26.5s | 0.0 g/s | ETA: 620s | W:0 D:29  Game 30/50 | 80 moves | 34.8s | 0.0 g/s | ETA: 594s | W:0 D:30  Game 31/50 | 56 moves | 24.7s | 0.0 g/s | ETA: 561s | W:0 D:31  Game 32/50 | 67 moves | 30.8s | 0.0 g/s | ETA: 532s | W:0 D:32  Game 33/50 | 75 moves | 34.1s | 0.0 g/s | ETA: 505s | W:0 D:33  Game 34/50 | 101 moves | 46.0s | 0.0 g/s | ETA: 483s | W:0 D:34  Game 35/50 | 73 moves | 31.2s | 0.0 g/s | ETA: 453s | W:0 D:35  Game 36/50 | 94 moves | 41.8s | 0.0 g/s | ETA: 428s | W:0 D:36  Game 37/50 | 81 moves | 36.6s | 0.0 g/s | ETA: 399s | W:0 D:37  Game 38/50 | 71 moves | 32.1s | 0.0 g/s | ETA: 369s | W:0 D:38  Game 39/50 | 57 moves | 24.5s | 0.0 g/s | ETA: 336s | W:0 D:39  Game 40/50 | 63 moves | 27.2s | 0.0 g/s | ETA: 305s | W:0 D:40  Game 41/50 | 75 moves | 32.3s | 0.0 g/s | ETA: 275s | W:0 D:41  Game 42/50 | 75 moves | 31.9s | 0.0 g/s | ETA: 245s | W:0 D:42  Game 43/50 | 75 moves | 32.4s | 0.0 g/s | ETA: 214s | W:0 D:43  Game 44/50 | 61 moves | 34.0s | 0.0 g/s | ETA: 184s | W:0 D:44  Game 45/50 | 78 moves | 36.3s | 0.0 g/s | ETA: 154s | W:0 D:45  Game 46/50 | 55 moves | 23.0s | 0.0 g/s | ETA: 123s | W:0 D:46  Game 47/50 | 61 moves | 23.9s | 0.0 g/s | ETA: 92s | W:0 D:47  Game 48/50 | 105 moves | 41.1s | 0.0 g/s | ETA: 61s | W:0 D:48  Game 49/50 | 59 moves | 23.1s | 0.0 g/s | ETA: 31s | W:0 D:49  Game 50/50 | 65 moves | 25.1s | 0.0 g/s | ETA: 0s | W:0 D:50
+  Generated 3491 examples from 50 games (70 avg moves, 1523.1s total)
+  Buffer size: 3,491 examples  (1523s)
+
+[2/3] Training (5 epochs, batch=512)
+      Epoch 1/5: policy=6.084, value=0.005
+      Epoch 2/5: policy=5.472, value=0.001
+      Epoch 3/5: policy=5.021, value=0.000
+      Epoch 4/5: policy=4.667, value=0.000
+      Epoch 5/5: policy=4.391, value=0.000
+  Loss: policy=5.1269, value=0.0014  (1s)
+  Saved: gen_0003.pt
+
+Gen 3 complete.
+
+============================================================
+Generation 4 / 202
+============================================================
+
+[1/3] Self-Play (50 games, 200 sims/move)
+  Game 1/50 | 68 moves | 28.6s | 0.0 g/s | ETA: 1402s | W:0 D:1  Game 2/50 | 59 moves | 24.1s | 0.0 g/s | ETA: 1266s | W:0 D:2  Game 3/50 | 55 moves | 22.0s | 0.0 g/s | ETA: 1171s | W:0 D:3  Game 4/50 | 61 moves | 25.7s | 0.0 g/s | ETA: 1155s | W:0 D:4  Game 5/50 | 49 moves | 21.1s | 0.0 g/s | ETA: 1094s | W:0 D:5  Game 6/50 | 55 moves | 22.9s | 0.0 g/s | ETA: 1059s | W:0 D:6  Game 7/50 | 63 moves | 26.2s | 0.0 g/s | ETA: 1048s | W:0 D:7  Game 8/50 | 53 moves | 21.8s | 0.0 g/s | ETA: 1010s | W:0 D:8  Game 9/50 | 71 moves | 29.5s | 0.0 g/s | ETA: 1011s | W:0 D:9  Game 10/50 | 74 moves | 30.3s | 0.0 g/s | ETA: 1009s | W:0 D:10  Game 11/50 | 57 moves | 22.8s | 0.0 g/s | ETA: 975s | W:0 D:11  Game 12/50 | 55 moves | 21.9s | 0.0 g/s | ETA: 941s | W:0 D:12  Game 13/50 | 55 moves | 21.8s | 0.0 g/s | ETA: 907s | W:0 D:13  Game 14/50 | 53 moves | 21.6s | 0.0 g/s | ETA: 875s | W:0 D:14  Game 15/50 | 68 moves | 29.4s | 0.0 g/s | ETA: 863s | W:0 D:15  Game 16/50 | 57 moves | 22.4s | 0.0 g/s | ETA: 833s | W:0 D:16  Game 17/50 | 55 moves | 21.9s | 0.0 g/s | ETA: 804s | W:0 D:17  Game 18/50 | 59 moves | 22.5s | 0.0 g/s | ETA: 776s | W:0 D:18  Game 19/50 | 63 moves | 26.2s | 0.0 g/s | ETA: 755s | W:0 D:19  Game 20/50 | 71 moves | 29.1s | 0.0 g/s | ETA: 738s | W:0 D:20
